@@ -1,6 +1,6 @@
 # PATHS: change accordingly
-data_directory: '/path/to/dataset' # path to wavs and metafile directory
-log_directory: '/path/to/logdir'   # weights and logs are stored here
+data_directory: '/content/drive/MyDrive/LJSpeech-1.1' # path to wavs and metafile directory
+log_directory: '/content/drive/MyDrive/LJSpeech-1.1/logs'   # weights and logs are stored here
 metadata_filename: 'metadata.csv'  # name of metadata file under data_directory
 train_metadata_filename: 'train_metafile.txt' # target file for training metadata
 valid_metadata_filename: 'valid_metafile.txt'
